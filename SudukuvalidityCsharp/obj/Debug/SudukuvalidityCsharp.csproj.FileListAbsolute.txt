@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\SudukuvalidityCsharp\SudukuvalidityCsharp\bin\Debug\SudukuvalidityCsharp.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\SudukuvalidityCsharp\SudukuvalidityCsharp\bin\Debug\SudukuvalidityCsharp.exe
+c:\users\administrator\documents\visual studio 2013\Projects\SudukuvalidityCsharp\SudukuvalidityCsharp\bin\Debug\SudukuvalidityCsharp.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\SudukuvalidityCsharp\SudukuvalidityCsharp\obj\Debug\SudukuvalidityCsharp.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\SudukuvalidityCsharp\SudukuvalidityCsharp\obj\Debug\SudukuvalidityCsharp.exe
+c:\users\administrator\documents\visual studio 2013\Projects\SudukuvalidityCsharp\SudukuvalidityCsharp\obj\Debug\SudukuvalidityCsharp.pdb
